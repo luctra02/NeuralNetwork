@@ -27,6 +27,6 @@ pip install numpy
 The script prints the test accuracy of both the Feedforward Neural Network and the Recurrent Neural Network:
 
 * Test accuracy for Feedforward NN:
-![alt text](image.png)
+![alt text](images/Feedforwad.png)
 * Test accuracy for Recurrent NN:
-![alt text](image-1.png)
+![alt text](images/Recurrent.png)
